@@ -4,14 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorPrimary">
+    android:background="@drawable/android01">
 
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="TotalFlex"
-        android:textSize="80dp"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="132dp" />
+
 </android.support.constraint.ConstraintLayout>
